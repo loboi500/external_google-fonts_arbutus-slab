@@ -1,17 +1,3 @@
-name: "Arbutus Slab"
-designer: "Karolina Lach"
-license: "OFL"
-category: "SERIF"
-date_added: "2012-09-18"
-fonts {
-  name: "Arbutus Slab"
-  style: "normal"
-  weight: 400
-  filename: "ArbutusSlab-Regular.ttf"
-  post_script_name: "ArbutusSlab-Regular"
-  full_name: "Arbutus Slab Regular"
-  copyright: "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved."
-}
-subsets: "latin"
-subsets: "latin-ext"
-subsets: "menu"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f98f83bfb0ac9220660193d544109025700afde2c556b689fe44cd204dfae35
+size 415
